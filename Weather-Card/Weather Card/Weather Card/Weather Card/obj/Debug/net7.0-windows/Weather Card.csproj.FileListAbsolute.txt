@@ -1,0 +1,18 @@
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\bin\Debug\net7.0-windows\Weather Card.exe
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\bin\Debug\net7.0-windows\Weather Card.deps.json
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\bin\Debug\net7.0-windows\Weather Card.runtimeconfig.json
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\bin\Debug\net7.0-windows\Weather Card.dll
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\bin\Debug\net7.0-windows\Weather Card.pdb
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.csproj.AssemblyReference.cache
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather_Card.Form1.resources
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.csproj.GenerateResource.cache
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.AssemblyInfoInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.AssemblyInfo.cs
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.csproj.CoreCompileInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.dll
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\refint\Weather Card.dll
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.pdb
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather Card.genruntimeconfig.cache
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\ref\Weather Card.dll
+C:\Users\busin\OneDrive\Masaüstü\Weather Card\Weather Card\Weather Card\obj\Debug\net7.0-windows\Weather_Card.Properties.Resources.resources
